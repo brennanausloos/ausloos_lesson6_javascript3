@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 13 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Brennan Ausloos)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Created a photo gallery with various elements using javascript in cloud9.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brennanausloos.github.io/ausloos_lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson, I learned how to clone nodes by using the "clonenode()" function.)
+2. (In this lesson, I learned how to use the "populateFigures()" method in the photo gallery.)
+3. (In this lesson, I learned how to add event listeners to the photo gallery using the "getElementById()" method.)
